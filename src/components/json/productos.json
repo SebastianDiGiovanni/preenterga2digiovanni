@@ -1,0 +1,265 @@
+[
+    {
+        "id": 1,
+        "nombre": "FIGURA GOKU",
+        "descripcion": "Goku Nube Voladora-DBZ/ Altura 16cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 19600,
+        "stock": 20,
+        "categoria": "figuras",
+        "imagen": "../images/figura_goku.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "IZUKU MIDORIYA",
+        "descripcion": "Isuku Midoriya-MHA/ Altura 18cm/ Fabricante-Banpresto/ Material PVC ",
+        "precio": 17200,
+        "stock": 3,
+        "categoria": "figuras",
+        "imagen": "../images/figura_deku.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "FIGURA GOHAN SSJ2",
+        "descripcion": "Figura Gohan SSJ2-DBZ/ Altuta 13cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 15270,
+        "stock": 2,
+        "categoria": "figuras",
+        "imagen": "../images/figura_gohan_ssj2.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "CAMPERA DBZ",
+        "descripcion": "Campera Goku DBZ/ Material 70% Nylon - 30% Algodon/ Talle S/M/L/XL",
+        "precio": 5700,
+        "stock": 10,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/campera_dbz.webp"
+    },
+    {
+        "id": 5,
+        "nombre": "COLLAR LLAVE EREN",
+        "descripcion": "Collar Llave Eren/ Material-Metal",
+        "precio": 760,
+        "stock": 20,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/collar_llave_eren.webp"
+    },
+    {
+        "id": 6,
+        "nombre": "FIGURA KEISUKE BAJI",
+        "descripcion": "Figura Baji-Tokyo Revengers/ Altura 20cm/ Material PVC ",
+        "precio": 9800,
+        "stock": 5,
+        "categoria": "figuras",
+        "imagen": "../images/figura_baji.jpg"
+    },
+    {
+        "id": 7,
+        "nombre": "REMERA NEGRA KNY",
+        "descripcion": "Remera Negra Kimetsu No Yaiba/ Material-Algodon",
+        "precio": 3500,
+        "stock": 17,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/remera_demon.jpeg"
+    },
+    {
+        "id": 8,
+        "nombre": "FIGURA CELL PERFECT FORM",
+        "descripcion": "Figura Cell Perfect Form-DBZ/ Altura 23cm/ Fabricantes-Banpresto/ Material PVC",
+        "precio": 21000,
+        "stock": 18,
+        "categoria": "figuras",
+        "imagen": "../images/figura_cell_full_power.jpg"
+    },
+    {
+        "id": 9,
+        "nombre": "SHINGEKI NO KYOJIN VOL.34",
+        "descripcion": "TOMO FINAL (Editorial OVNI). El niño que alguna vez vivió con miedo a los titanes dentro de los muros se volvió la mayor amenaza de la historia. Armin, Mikasa, Levi y el resto de los sobrevivientes alcanzan a un Eren completamente desatado y enfocado en acabar con la humanidad, mientras que la sombra de Ymir lo observa todo en silencio.",
+        "precio": 1900,
+        "stock": 10,
+        "categoria": "mangas",
+        "imagen": "../images/attack_on_titan_vol34.jpg"
+    },
+    
+    
+    {
+        "id": 10,
+        "nombre": "BANANA FISH VOL.01",
+        "descripcion": "(Editorial Panini Manga) Año 1973, Vietnam. Un soldado pierde los papeles tras musitar las palabras Banana Fish … Año 1985, Nueva York. Ash intenta averiguar qué hay detrás de esas palabras, tras las cuales parece cernirse la oscura sombra de Papa Dino, un capo mafioso de los bajos fondos.",
+        "precio": 2800,
+        "stock": 25,
+        "categoria": "mangas",
+        "imagen": "../images/bananafish_vol1.jpg"
+    },
+    
+    
+    {
+        "id": 11,
+        "nombre": "BATTLE ROYALE DELUXE VOL.03",
+        "descripcion": "(Editorial IVREA) La historia narra que en un futuro, los estudiantes de secundaria están inmersos en una siniestra competencia llamada precisamente Battle Royale. Las particulares reglas de este juego? Sólo una persona del curso elegido para participar puede sobrevivir después de tres días en una isla repleta de peligros. Si hay más de uno vivo al cumplirse el plazo, mueren todos, así que la única forma de salvarse es asesinar a todos tus compañero/as. El horror, la locura y la traición se convertirán en moneda corriente, mientras la lenta cuenta regresiva va llegando a su fin. Pero, a pesar de todo esto, puede que incluso haya espacio para el amor?",
+        "precio": 3200,
+        "stock": 15,
+        "categoria": "mangas",
+        "imagen": "../images/battle_royale_deluxe_03.jpg"
+    },
+    {
+        "id": 12,
+        "nombre": "BERSERK VOL.01",
+        "descripcion": "(Editorial Panini Manga) El malvado Conde usa sus poderes oscuros para transformar a un capitán de guardia derrotado en un horror inhumano para combatir a Guts, el Espadachín Negro. Puck, el coqueto hada del tamaño de Guts, es capturado cuando intenta detener la ejecución de un viejo médico, y se le da como un regalo a la hija del conde, una niña dulce en una jaula dorada, encarcelada por su padre en su propia habitación. Guts, decidido a hacer carne picada del conde, asalta el castillo y esculpe una franja de destrucción empapada de sangre a través de los secuaces del conde. Cara a cara con el Espadachín Negro por fin, el Conde revela su verdadera forma e incluso la espada de gran tamaño de Guts puede no ser lo suficientemente grande como para contender con esta monstruosidad demoníaca.",
+        "precio": 2200,
+        "stock": 5,
+        "categoria": "mangas",
+        "imagen": "../images/berserk_vol1.jpg"
+    },
+    
+    {
+        "id": 13,
+        "nombre": "FIGURA RENGOKU SEPIA",
+        "descripcion": "Figura Rengoku Sepia/ Altuta 17cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 13400,
+        "stock": 2,
+        "categoria": "figuras",
+        "imagen": "../images/figura_rengoku_sepia.jpg"
+    },
+    {
+        "id": 14,
+        "nombre": "FIGURA SATORU GOJO",
+        "descripcion": "Figura Satoru Gojo-Jujutsu Kaisen/ Altura 17cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 16600,
+        "stock": 3,
+        "categoria": "figuras",
+        "imagen": "../images/figura_gojo.jpg"
+    },
+    {
+        "id": 15,
+        "nombre": "LLAVERO ANGELMON",
+        "descripcion": "Llavero Angelmon-Digimon/ Material-Plastico/Metal",
+        "precio": 1200,
+        "stock": 20,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/llavero_angelmon.webp"
+    },
+    {
+        "id": 16,
+        "nombre": "MOUSE PAD ZTDF",
+        "descripcion": "Mouse Pad-Zero Two Darling In The Franxx/ Material-PVC",
+        "precio": 2500,
+        "stock": 9,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/mouse_pad.webp"
+    },
+    {
+        "id": 17,
+        "nombre": "CHAINSAW MAN VOL.08",
+        "descripcion": "(Editorial IVREA) Chainsaw Man narra la historia de Denji, un pobre infeliz que haría cualquier cosa por guita. Su padre se suicidó dejándole una deuda impagable con la mafia, jamás en su vida lo abrazaron y gracias si puede apuntar a comerse una rodaja de figuras lactal por día. Cuando ya casi no le quedan órganos que vender, empieza a cazar demonios con su perro-motosierra, Pochita, substiendo con el sueño de tener un futuro mejor… Hasta que el mismo mafioso para el que trabajaban les tiende una trampa y ambos mueren descuartizados… al menos por un rato. Resulta que Pochita se fusiona con el corazón de Denji, volviéndolo un híbrido de humano y demonio dándole el poder de convertir sus brazos y cabeza en motosierras, para deleite de la tribuna que quería un buen shonen con gore. A partir de ahí, una bella mujer llamada Makima lo contacta y le da dos opciones: o trabaja como su perro fiel como Devil Hunter estatal o lo ponen a dormir definitivamente… ¡¡Y todo esto en el primer capítulo!!",
+        "precio": 1800,
+        "stock": 12,
+        "categoria": "mangas",
+        "imagen": "../images/chainsawman_08.jpg"
+    },
+    {
+        "id": 18,
+        "nombre": "DEMON SLAYER VOL.09",
+        "descripcion": "(Editorial IVREA) Esta obra de Koyoharu Gotouge, uno de los últimos megaéxitos de la Shonen Jump en Japón con 17 tomos y contando, transcurre en el Japón feudal de la Era Taisho, aunque en una versión con elementos fantásticos, como unos agradables demonios que morfan carne humana. Narra las aventuras de Tanjiro Kamado, un Joven amable y de buen corazón que vive con su madre y cinco hermanos en las montañas, y se dedica a vender carbón para subsistir. Un día que Tanjiro estaba volviendo de sus labores, un aldeano le sugiere pasar la noche en su casa para prevenir que se lo morfe un Oni. Tanjiro acepta, pero cuando finalmente regresa a su hogar, descubre que aunque él zafó, toda su familia fue devorada por un demonio, salvo su hermanita Nezuko, ¡que terminó convertida en uno de ellos! En su desesperación por encontrar ayuda, Tanjiro se topa con un asesino de demonios llamado Giyu Tomioka (clásico amigo-rival con pinta de me tomé tres valiums), quien descubre que extrañamente Nezuko retiene suficiente de su humanidad para querer proteger a su hermano. Sorprendido por esto, y por las habilidades de combate del chico, le sugiere que vaya a visitar a su maestro… Así comienzan las aventuras de Tanjiro para convertirse en un asesino de demonios y lograr encontrar tanto una cura para su hermana, como al asesino de su familia, mientras se topa con amigos y rivales de lo más inesperados. ¿En dónde destaca Kimetsu no Yaiba para llegar a ser tan popular? Prácticamente en todo. El mix justo de misterio, drama, acción, mitología y terror destilado, la hizo acaparar público muy amplio al saber mezclar los recursos y dispositivos típicos del género, protagonista bueno y -cada vez más- poderoso incluido. ¡Kimetsu no Yaiba es una historia de intensas aventuras que no da respiro, y ahora Ivrea te la encaja cual tarascón de demonio!",
+        "precio": 1800,
+        "stock": 9,
+        "categoria": "mangas",
+        "imagen": "../images/demonslayer_09.jpg"
+    },
+    {
+        "id": 19,
+        "nombre": "FULL METAL ALCHEMIST VOL.10",
+        "descripcion": "(Editorial IVREA) Fullmetal Alchemist transcurre en un mundo alternativo donde la magia y la alquimia existen, y de hecho esta última es una de las ciencias más practicadas. Los alquimistas son personas que se valen de un círculo de transmutación para invocar cualquier objeto que se les antoje, siempre en completa concordancia con la ley de equivalencia de intercambio, que indica que para generar algo, tienen que entregar otra cosa de igual valor. Otra cosa que los alquimistas tienen que tener en cuenta es que está terminantemente prohibida la transmutación con humanos. El deseo de revivir a su madre provocó que los hermanos Edward y Alphose Elric desafiasen esta norma. No sólo no lograron su objetivo sino que además Edward perdió un brazo y una pierna, y Alphonse, su cuerpo completo (logrando luego adosar su espíritu al de una vieja armadura). Ahora, enrolados en la división de alquimistas del ejército de Amestris (el país que habitan), Edward y Alphonse van en busca de la piedra filosofal, que podría devolverlos a la normalidad. Lo que no se esperan es que detrás de esa piedra filosofa hay toda una conspiración en las sombras, que pretende destruir al mundo entero…",
+        "precio": 2200,
+        "stock": 9,
+        "categoria": "mangas",
+        "imagen": "../images/fullmetal_alchemist_10.jpg"
+    },
+    
+    {
+        "id": 20,
+        "nombre": "CARDCAPTOR SAKURA VOL.01",
+        "descripcion": "(Editorial IVREA) La historia se sitúa exactamente después del epílogo de la serie anterior, con los personajes a punto de iniciar la secundaria baja, tras un período de tranquilidad una vez que Sakura logró recapturar a todas las cartas. Ahora es momento de que la protagonista pueda relajarse y disfrutar de un nuevo ciclo escolar, con sus amigas de siempre y el regreso de Syaoran… Hasta que surgen complicaciones: las cartas de Sakura pierden su poder, y una vez más tiene que reiniciar su captura. Así nacen las “clear cards”, unas misteriosas cartas transparentes. Pero eso no es todo… Ahora guiada por la “Llave de los Sueños” y a su vez desorientada por las premoniciones que le surgen al soñar (a veces dormida, a veces despierta), Sakura se embarca en una nueva aventura, que por supuesto incluye nuevos personajes, diseños impresionantes y las impredecibles vueltas de tuerca a las que nos tienen malacostumbrados las autoras de este manga. Clear Card ya fue adaptado a un exitoso anime.",
+        "precio": 2800,
+        "stock": 3,
+        "categoria": "mangas",
+        "imagen": "../images/sakura_cardcaptor_01.jpg"
+    },
+    
+    {
+        "id": 21,
+        "nombre": "PIN METAL SATORU GOJO",
+        "descripcion": "Pin Metal Satoru Gojo-Jujutsu Kaisen/ Material-Metal",
+        "precio": 1100,
+        "stock": 10,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/pin_metal_gojo.webp"
+    },
+    {
+        "id": 22,
+        "nombre": "FIGURA ITACHI",
+        "descripcion": "Figura Itachi-Naruto (Articulado)/ Altura 17cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 18000,
+        "stock": 2,
+        "categoria": "figuras",
+        "imagen": "../images/figura_itachi.jpg"
+    },
+    
+    {
+        "id": 23,
+        "nombre": "FIGURA LEVI ACKERMAN",
+        "descripcion": "Figura Levi Ackerman-SNK/ Altura 20cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 18200,
+        "stock": 1,
+        "categoria": "figuras",
+        "imagen": "../images/figura_levi.jpg"
+    },
+    {
+        "id": 24,
+        "nombre": "FIGURA TOMURA SHIGARAKI",
+        "descripcion": "Figura Tomura Shigaraki-MHA/ Altura 20cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 23000,
+        "stock": 1,
+        "categoria": "figuras",
+        "imagen": "../images/figura_tomura_shigaraki.jpg"
+    },
+    {
+        "id": 25,
+        "nombre": "LLAVERO MITSUYA",
+        "descripcion": "Llavero Mitsuya-Tokyo Revengers/ Material-Plastico/Metal",
+        "precio": 620,
+        "stock": 12,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/llavero_mitsuya.webp"
+    },
+    {
+        "id": 26,
+        "nombre": "FIGURA INOSUKE HASHIBIRA",
+        "descripcion": "Figura Inokuse Hashibira-Kimetsu No Yaiba/ Altura 15cm/ Fabricamente-Banpresto/ Material PVC",
+        "precio": 18110,
+        "stock": 5,
+        "categoria": "figuras",
+        "imagen": "../images/figura_inosuke.jpg"
+    },
+   {
+        "id": 27,
+        "nombre": "FIGURA NARUTO",
+        "descripcion": "Figura Naturo-Naruto/ Altura 17cm/ Fabricante-Banpresto/ Material PVC",
+        "precio": 20100,
+        "stock": 5,
+        "categoria": "figuras",
+        "imagen": "../images/figura_naruto.jpg"
+    },
+    {
+        "id": 28,
+        "nombre": "LLAVERO TAKAMURA",
+        "descripcion": "Llavero Takamura-Hajime No Ippo/ Material-Plastico/Metal",
+        "precio": 670,
+        "stock": 15,
+        "categoria": "ropa y accesorios",
+        "imagen": "../images/llavero_takamura.webp"
+    }
+    
+    
+    
+]
